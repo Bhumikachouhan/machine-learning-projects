@@ -13,3 +13,12 @@ This repository contains Machine Learning projects implemented using Python and 
 * NumPy
 * Pandas
 * Scikit-learn
+
+## Project Structure
+machine-learning-projects
+│
+├── heart-disease-prediction
+├── rock-mine-prediction
+│
+├── requirements.txt
+└── README.md
