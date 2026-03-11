@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains beginner Machine Learning projects implemented using Python and Scikit-learn.
+This repository contains Machine Learning projects implemented using Python and Scikit-learn.
 
 ## Projects
 
