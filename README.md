@@ -15,10 +15,12 @@ This repository contains Machine Learning projects implemented using Python and 
 * Scikit-learn
 
 ## Project Structure
-machine-learning-projects
+```
+ machine-learning-projects
 │
 ├── heart-disease-prediction
 ├── rock-mine-prediction
 │
 ├── requirements.txt
 └── README.md
+```
